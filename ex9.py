@@ -1,5 +1,5 @@
-days = "Mon Tue Wed Thu Fri Sat" 
-months = "\nJan\nFeb\nMa\nApr\nMay\nJune\nJul\nAug"
+days = "Mon Tue Wed Thu Fri Sat" #string in single line
+months = "\nJan\nFeb\nMa\nApr\nMay\nJune\nJul\nAug" #string with space due to \n
 
 print("Here are days", days)
 print("Here are months", months)
