@@ -1,3 +1,4 @@
+# Variables and names
 cars = 100 #number of cars
 space_in_a_car = 4.0 #total people can travel in a single car
 drivers = 30 #total no. of drivers

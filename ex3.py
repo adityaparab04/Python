@@ -1,3 +1,4 @@
+#Numbers and Math
 print("I will count my chickens:") #prints the sentence
 
 print("Hens", 24.2+30.4/6) #avg of hens
