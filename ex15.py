@@ -1,5 +1,6 @@
-from sys import argv
-script, filename = argv
+#Reading files
+from sys import argv #import argv
+script, filename = argv #argument
 txt = open(filename)
 print(f"Here's your file{filename}")
 print(txt.read())
